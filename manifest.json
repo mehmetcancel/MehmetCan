@@ -1,0 +1,16 @@
+{
+  "short_name": "Futbolcu",
+  "name": "Futbolcu Sensin",
+  "icons": [
+    {
+      "src": "./logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#022c22",
+  "background_color": "#022c22",
+  "orientation": "portrait"
+}

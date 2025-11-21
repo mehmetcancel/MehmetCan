@@ -1,0 +1,7 @@
+{
+  "name": "Futbolcu Sensin",
+  "description": "Fotoğrafını yükle, takımını seç, yapay zeka seni o formayla hayal etsin.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
